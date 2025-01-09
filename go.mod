@@ -1,4 +1,4 @@
-module github.com/ybbus/jsonrpc/v2
+module github.com/ckti/jsonrpc/v2
 
 go 1.12
 
